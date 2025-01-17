@@ -4,8 +4,7 @@
 
 ## Type of change
 
-> (add an "x" within the square brackets):
-
+<!-- (add an "x" within the square brackets) -->
 - [ ] Bug fix (non-breaking change which fixes an issue)
 - [ ] New feature (non-breaking change which adds functionality)
 - [ ] Breaking change (fix or feature that would cause existing functionality to not work as expected)
@@ -31,8 +30,7 @@
   <summary><h4>✅ Contributor Checklist</h4></summary>
   <br>
 
-> (add an "x" within the square brackets):
-
+<!-- (add an "x" within the square brackets) -->
 - [ ] I have implemented all the features described in the user story or task.
 - [ ] I have tested all features locally, covering:
   - [ ] Positive scenarios.
