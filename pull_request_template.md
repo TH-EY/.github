@@ -6,10 +6,10 @@
 
 > (add an "x" within the square brackets):
 
-- [] Bug fix (non-breaking change which fixes an issue)
-- [] New feature (non-breaking change which adds functionality)
-- [] Breaking change (fix or feature that would cause existing functionality to not work as expected)
-- [] This change requires a documentation update
+- [ ] Bug fix (non-breaking change which fixes an issue)
+- [ ] New feature (non-breaking change which adds functionality)
+- [ ] Breaking change (fix or feature that would cause existing functionality to not work as expected)
+- [ ] This change requires a documentation update
 
 ## 🔍 Related Issues
 
@@ -33,16 +33,16 @@
 
 > (add an "x" within the square brackets):
 
-- [] I have implemented all the features described in the user story or task.
-- [] I have tested all features locally, covering:
-  - [] Positive scenarios.
-  - [] Error handling.
-  - [] Edge cases.
-  - [] Checked all uses of the components changed in the PR.
-- [] I have added or updated documentation as necessary.
-- [] I have added or updated relevant comments in the code.
-- [] I have verified that no sensitive data (e.g., passwords, API keys) is exposed.
-- [] I have verified that new third-party dependencies are secure and actively maintained.
-- [] I have removed any debugging logs not intended for production.
-- [] Ran build scripts to make sure it passes.
+- [ ] I have implemented all the features described in the user story or task.
+- [ ] I have tested all features locally, covering:
+  - [ ] Positive scenarios.
+  - [ ] Error handling.
+  - [ ] Edge cases.
+  - [ ] Checked all uses of the components changed in the PR.
+- [ ] I have added or updated documentation as necessary.
+- [ ] I have added or updated relevant comments in the code.
+- [ ] I have verified that no sensitive data (e.g., passwords, API keys) is exposed.
+- [ ] I have verified that new third-party dependencies are secure and actively maintained.
+- [ ] I have removed any debugging logs not intended for production.
+- [ ] Ran build scripts to make sure it passes.
 </details>
